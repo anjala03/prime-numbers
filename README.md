@@ -1,3 +1,2 @@
-"# prime-numbers" 
-"# prime-numbers" 
-"# prime-numbers" 
+This repo contains the python code to list out all the prime numbers up to the users input number and stored in a txt file. Features and syntax such lists, for loop, if else condition, file handling, and functions are used. 
+The code is run in terminal using the command "python your_filename with .py extension". 
