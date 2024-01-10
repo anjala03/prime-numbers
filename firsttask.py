@@ -16,5 +16,5 @@ def print_primes(n):
         for elements in primes:
             f.write(str(elements) +"\n")
 
-numbers= int(input("Take input from user"))
+numbers= int(input("Take input from user: "))
 print_primes(numbers)
